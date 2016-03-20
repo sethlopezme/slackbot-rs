@@ -1,0 +1,6 @@
+[package]
+name = "slackbot-rs"
+version = "0.1.0"
+authors = ["Seth Lopez <seth@dynamit.com>"]
+
+[dependencies]
